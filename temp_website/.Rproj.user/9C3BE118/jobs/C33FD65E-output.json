@@ -1,0 +1,5 @@
+[2,"\n"]
+[1,"pandoc \n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Cecelia Kaufmann\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \nmetadata\n  pagetitle: Cecelia Kaufmann\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: zephyr\n  title: ''\n  about:\n    id: intro-heading\n    template: trestles\n    image: images/profilephoto.jpg\n    links:\n      - icon: github\n        href: 'https://github.com/cecelia-kaufmann1'\n      - icon: linkedin\n        href: 'https://www.linkedin.com/in/ceceilakaufmann/'\n      - icon: envelope\n        href: 'mailto:ckaufma1@macalester.edu'\n  \n"]
+[1,"Output created: docs\\index.html\n\nTerminating existing preview server....DONE\n\nPreparing to preview\n\nWatching files for changes\nBrowse at http://localhost:7744/\n"]
+[1,"GET: /index.html\n"]
+[1,"GET: /computerscienceprojects.html\n"]
