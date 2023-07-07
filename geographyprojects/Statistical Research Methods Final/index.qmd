@@ -1,0 +1,13 @@
+---
+title: "“Aw Nuts!”: Squirrel Fur Color Analysis in NYC’s Central Park"
+description: "A final project for my Statistical Research Methods in Geography Final. This project inovolved finding a dataset we liked and running some type of geographical statistical analysis on the dataset. I was interested in exploring spatial analysis, so I used ArcGIS to run Moran's Global and Local I to see if there was clustering based on fur color (spoiler: there was!)"
+image: Squirrels!.png
+categories:
+  - Spatial Analysis
+  - ArcGIS Pro
+about:
+  template: solana
+  image: Squirrels!.png
+---
+
+To view the full presentation and the specific analysis I used, [click here](https://docs.google.com/presentation/d/1bM4XRrLefeRLy0gVly-ShQqwHmVnibkTmfNerGmFy-Q/edit?usp=sharing))

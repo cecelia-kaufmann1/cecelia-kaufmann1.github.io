@@ -1,0 +1,13 @@
+---
+title: "Memory Maze"
+description: "A collaborative project for semester long project in Software Design and Development where we used a maze algorithm to create a game. The game structure shows the user a random maze based on the difficultly level and has the user try to memorize it in a set amount of time. Then the use has a scrolled-in view of the maze and must navigate through the finish."
+image: memory_maze.png
+categories:
+  - Software Design and Development
+  - Game Design
+about:
+  template: solana
+  image: memory_maze.png
+---
+
+Full code can be found [here](https://github.com/cecelia-kaufmann1/maze)

@@ -1,7 +1,7 @@
 ---
 title: "Geography Projects"
 listing:
-  contents: projects
+  contents: geographyprojects
   sort: "title desc"
   type: grid
   categories: true
